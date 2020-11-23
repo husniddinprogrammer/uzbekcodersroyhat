@@ -154,6 +154,7 @@
     .a2 {
         text-decoration: none;
         font-size: 40px;
+        color: blue;
     }
 }
 body {
@@ -188,6 +189,22 @@ label {
 .container #nav {
     text-align: center;
 }
-
+.a1:hover {
+    color: blue;
+}
+.tugma:hover {
+    background-color: rgb(194, 189, 169);
+    color: blue;
+    border: 0px solid white;
+}
+.tugma:active {
+    background-color: rgb(194, 189, 169);
+    color: blue;
+    border: 0px solid white;
+}
+.a2:hover {
+    color: blue;
+    border-bottom:1px solid blue;
+}
 
 
