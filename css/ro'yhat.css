@@ -1,0 +1,193 @@
+ 
+  * {
+      margin: 0;
+      padding: 0;
+  }
+
+ @media screen and (max-width:1000px) {
+   
+    
+    .boshdiv {
+        position: relative;
+        width: 100%;
+        height: 200px;
+    }
+    .boshrasm {
+     height: 100%;
+     width: 100%;
+     opacity: 1;
+    }
+    .rasmy {
+        position: absolute;
+        top:50%;
+        width: 100%;
+        text-align: center;
+        font-size: 20px;
+        color: rgb(29, 140, 231);
+    }
+    .yozuv {
+        text-align: center;
+        margin-top: 8px;
+    }
+    .forma {
+        width: 90%;
+        margin: auto;
+    }
+    .a1 {
+        text-decoration: none;
+        color: rgb(105, 97, 97);
+        font-size: 11px;
+    }
+    label {
+        position: relative;
+        font-size: 20px;
+        top: 13px;
+    }
+    .oinput {
+        margin-top:15px;
+        font-size: 20px;
+        width: 100%;
+        border-radius: 4px;
+        border:rgb(194, 188, 188) 1px solid;
+        padding-left: 5px;
+        color:rgb(175, 158, 158);
+    }
+    .oinput2 {
+        margin-top:15px;
+        font-size: 10px;
+        width: 100%;
+        border-radius: 4px;
+        border:rgb(194, 188, 188) 1px solid;
+        padding-left: 5px;
+        color:rgb(175, 158, 158);
+    }
+    .OTM {
+        font-size: 14px;
+    }
+    .tugma {
+        margin-top:10px ;
+        font-size: 24px;
+        width: 80%;
+        border-radius: 30px;
+        background-color: rgb(52, 52, 204);
+        color: white;
+        padding: 8px;
+    }
+    .tugmalar {
+        text-align: center;
+    }
+    .a2 {
+        text-decoration: none;
+    }
+ }
+
+ @media screen and (min-width:1000px) {
+    
+    .boshdiv {
+        position: relative;
+        width: 100%;
+        height: 450px;
+    }
+    .boshrasm {
+     height: 100%;
+     width: 100%;
+    }
+    .rasmy {
+        position: absolute;
+        top:50%;
+        width: 100%;
+        text-align: center;
+        font-size: 80px;
+        color: rgb(29, 140, 231);
+    }
+    .yozuv {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .a1 {
+        text-decoration: none;
+        color: rgb(105, 97, 97);
+        font-size: 40px;
+    }
+    .forma {
+        width: 90%;
+        margin: auto;
+    }
+    label {
+        position: relative;
+        font-size: 40px;
+        top: 30px;
+    }
+    .oinput {
+        margin-top:45px;
+        font-size: 40px;
+        width: 100%;
+        border-radius: 10px;
+        border:rgb(194, 188, 188) 1px solid;
+        padding-left: 10px;
+        color:rgb(175, 158, 158);
+    }
+    .oinput2 {
+        margin-top:45px;
+        font-size: 20px;
+        width: 100%;
+        border-radius: 5px;
+        border:rgb(194, 188, 188) 1px solid;
+        padding-left: 8px;
+        color:rgb(175, 158, 158);
+    }
+    .OTM {
+        font-size: 40px;
+    }
+    .tugma {
+        margin-top:45px ;
+        font-size: 40px;
+        width: 80%;
+        border-radius: 70px;
+        background-color: rgb(67, 67, 204);
+        color: white;
+        padding: 15px;
+    }
+    .tugmalar {
+        text-align: center;
+    }
+    .a2 {
+        text-decoration: none;
+        font-size: 40px;
+    }
+}
+body {
+    background-color: white;
+}
+label {
+    color: rgb(73, 73, 77);
+}
+
+.logo-img {
+    max-width: 100%;
+    max-height: 100px;
+    margin-left: 43%;
+    padding: 10px 0px;
+}
+.container {
+    max-width: 70%;
+    margin: auto;
+}
+.container h1  {
+    display: inline-block;
+    margin: 8px;
+    font-size: 14px;
+    margin-top: 30px;   
+}
+.container h1 a {
+    text-decoration: none;
+    color: #233773;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.container #nav {
+    text-align: center;
+}
+
+
+
